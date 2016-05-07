@@ -1,0 +1,1 @@
+[NaN and Infinity in JavaScript](http://www.2ality.com/2012/02/nan-infinity.html)

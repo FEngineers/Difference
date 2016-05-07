@@ -1,0 +1,4 @@
+比较类似的概念
+比如service\factory\provider, 知道在哪种情况下该用哪个
+
+尽可能的多知道一些细节，比如Angular2相比较Angular1做了哪些改进，Angular2对浏览器兼容性怎么样，是不是已经可以使用Angular2
