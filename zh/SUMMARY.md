@@ -6,6 +6,8 @@
     * [DOM1 & DOM2 & DOM3](JavaScript/DOM1-DOM2-DOM3.md)
     * [事件捕获 & 事件冒泡](JavaScript/event-capture-bubble.md)
     * [runtime & parsetime](JavaScript/runtime-parsetime.md)
+    * [toString & valueOf](JavaScript/toString-valueOf.md)
+    * [typeof & instanceof](JavaScript/typeof-instanceof.md)
 * CSS
     * [animation & transition](CSS/animation-transition.md)
     * [伪类 & 伪元素](CSS/pseudo-classes-elements.md)

@@ -8,3 +8,7 @@ Compare difference of stuff in Frontend
 
 [中文](https://gyf1.gitbooks.io/difference/content/zh//)
 
+
+### 参考主要出处
+
+
