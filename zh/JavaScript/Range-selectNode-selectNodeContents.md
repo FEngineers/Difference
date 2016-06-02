@@ -1,0 +1,3 @@
+在调用selectNode()时，startContainer、endContainer和commonAncestorContainer等都等于传入节点的父节点，也就是其中的document.body。而startOffset属性等于给定节点在其父节点的childNodes集合中的索引。endOffset等于startOffset加上1；
+
+在调用selectNodeContents()时，startContainer、endContainer和commonAncestorContainer等于传入的节点。而startOffset属性始终等于0.最后，endOffset等于子节点的数量（node.childNodes.length）；

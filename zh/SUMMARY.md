@@ -10,7 +10,7 @@
     * [typeof & instanceof](JavaScript/typeof-instanceof.md)
 * CSS
     * [animation & transition](CSS/animation-transition.md)
-    * [inline & inline-block](inline-inline-block.md)
+    * [inline & inline-block](CSS/inline-inline-block.md)
     * [伪类 & 伪元素](CSS/pseudo-classes-elements.md)
     * [px & em & rem](CSS/px-em-rem.md)
 * HTML

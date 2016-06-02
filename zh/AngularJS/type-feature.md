@@ -43,7 +43,7 @@ entry文件需要很清晰的标明app结构，component结构
 [NG6-starter](https://angularclass.github.io/NG6-starter/)
 
 https://github.com/AngularClass/NG6-todomvc-starter
-http://panthersoftware.com/2015/09/08/yet-another-angular-es6-webpack-seed/
+[Yet Another AngularJS ES6 Webpack Seed Project](http://panthersoftware.com/2015/09/08/yet-another-angular-es6-webpack-seed/)
 
 ### angular webpack
 webpack一般会需要指明一个entry文件，那如果之前的build的方法是通过指定文件夹，

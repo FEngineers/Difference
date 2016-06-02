@@ -21,4 +21,3 @@ run(initializationFn);
 1. directive's compile functions (if they are found in the dom)
 1. app.controller()
 1. directive's link functions (again, if found)
-
