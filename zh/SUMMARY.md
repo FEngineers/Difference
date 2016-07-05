@@ -1,9 +1,11 @@
+* [GitHub](https://github.com/GYF1/Difference)
 * JavaScript
     * [== & ===](JavaScript/==-===.md)
     * [数据 & 类数组](JavaScript/array-array-like.md)
     * [children & childNodes](JavaScript/children-childNodes.md)
     * [cookie & localStorage & sessionStorage](JavaScript/cookie-localStorage-sessionStorage.md)
     * [DOM1 & DOM2 & DOM3](JavaScript/DOM1-DOM2-DOM3.md)
+    * [call & apply & bind](JavaScript/function-call-apply-bind.md)
     * [事件捕获 & 事件冒泡](JavaScript/event-capture-bubble.md)
     * [runtime & parsetime](JavaScript/runtime-parsetime.md)
     * [toString & valueOf](JavaScript/toString-valueOf.md)
