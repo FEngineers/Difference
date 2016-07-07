@@ -19,6 +19,7 @@
     * [ul & ol & dl](HTML/ul-ol-dl.md)
 * Node.js
     * [dependencies & devDependencies & peerDependencies](Node.js/dependencies-devDependencies-peerDependencies.md)
+    * [module.exports & exports](Node.js/module.exports-exports.md)
 * AngularJS
     * [compile & link](AngularJS/compile-link.md)
     * [controllerAs & $scope](AngularJS/controllerAs-$scope.md)
